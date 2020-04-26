@@ -10,13 +10,13 @@ public class RestController {
 	
 	@RequestMapping("/cargos")
 	public List<CargoDTO> listarCargos(){
-		//List<CargoDTO> cargos =
+		//TODO - List<CargoDTO> cargos =
 		return null;
 	}
 	
 	@RequestMapping("/sites")
 	public List<CargoDTO> listarSites(){
-		//List<SiteDTO> sites =
+		//TODO - List<SiteDTO> sites =
 		return null;
 	}
 	
